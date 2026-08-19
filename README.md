@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anchalmaurya29/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anchalmaurya29/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anchalmaurya29/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1386-cinema-seat-allocation](https://github.com/anchalmaurya29/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anchalmaurya29/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anchalmaurya29/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/anchalmaurya29/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1386-cinema-seat-allocation](https://github.com/anchalmaurya29/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/anchalmaurya29/Leetcode/tree/master/1563-stone-game-v) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anchalmaurya29/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/anchalmaurya29/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anchalmaurya29/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Game Theory
 |  |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anchalmaurya29/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/anchalmaurya29/Leetcode/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
