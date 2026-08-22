@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/anchalmaurya29/Leetcode/tree/master/0002-add-two-numbers) |
 | [1563-stone-game-v](https://github.com/anchalmaurya29/Leetcode/tree/master/1563-stone-game-v) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anchalmaurya29/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Stack
 |  |
 | ------- |
