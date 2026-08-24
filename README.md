@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/anchalmaurya29/Leetcode/tree/master/0002-add-two-numbers) |
 | [1563-stone-game-v](https://github.com/anchalmaurya29/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/anchalmaurya29/Leetcode/tree/master/1872-stone-game-viii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anchalmaurya29/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Stack
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/anchalmaurya29/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1386-cinema-seat-allocation](https://github.com/anchalmaurya29/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/anchalmaurya29/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/anchalmaurya29/Leetcode/tree/master/1872-stone-game-viii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anchalmaurya29/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anchalmaurya29/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1872-stone-game-viii](https://github.com/anchalmaurya29/Leetcode/tree/master/1872-stone-game-viii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anchalmaurya29/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/anchalmaurya29/Leetcode/tree/master/0044-wildcard-matching) |
 | [1563-stone-game-v](https://github.com/anchalmaurya29/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/anchalmaurya29/Leetcode/tree/master/1872-stone-game-viii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/anchalmaurya29/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/anchalmaurya29/Leetcode/tree/master/1872-stone-game-viii) |
 ## String Matching
 |  |
 | ------- |
@@ -206,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anchalmaurya29/Leetcode/tree/master/0037-sudoku-solver) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/anchalmaurya29/Leetcode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/anchalmaurya29/Leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
