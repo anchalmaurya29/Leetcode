@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/anchalmaurya29/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anchalmaurya29/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/anchalmaurya29/Leetcode/tree/master/0051-n-queens) |
+| [0057-insert-interval](https://github.com/anchalmaurya29/Leetcode/tree/master/0057-insert-interval) |
 | [0209-minimum-size-subarray-sum](https://github.com/anchalmaurya29/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1386-cinema-seat-allocation](https://github.com/anchalmaurya29/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/anchalmaurya29/Leetcode/tree/master/1563-stone-game-v) |
