@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/anchalmaurya29/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/anchalmaurya29/Leetcode/tree/master/1872-stone-game-viii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anchalmaurya29/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/anchalmaurya29/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Stack
 |  |
 | ------- |
