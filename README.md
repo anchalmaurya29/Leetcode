@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/anchalmaurya29/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/anchalmaurya29/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/anchalmaurya29/Leetcode/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/anchalmaurya29/Leetcode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anchalmaurya29/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/anchalmaurya29/Leetcode/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/anchalmaurya29/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/anchalmaurya29/Leetcode/tree/master/0079-word-search) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anchalmaurya29/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/anchalmaurya29/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/anchalmaurya29/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anchalmaurya29/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anchalmaurya29/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/anchalmaurya29/Leetcode/tree/master/0044-wildcard-matching) |
+| [0079-word-search](https://github.com/anchalmaurya29/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/anchalmaurya29/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/anchalmaurya29/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anchalmaurya29/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/anchalmaurya29/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/anchalmaurya29/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/anchalmaurya29/Leetcode/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/anchalmaurya29/Leetcode/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/anchalmaurya29/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anchalmaurya29/Leetcode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/anchalmaurya29/Leetcode/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
