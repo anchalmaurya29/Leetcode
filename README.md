@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/anchalmaurya29/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/anchalmaurya29/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/anchalmaurya29/Leetcode/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/anchalmaurya29/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anchalmaurya29/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anchalmaurya29/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anchalmaurya29/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -216,10 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/anchalmaurya29/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/anchalmaurya29/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/anchalmaurya29/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/anchalmaurya29/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anchalmaurya29/Leetcode/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anchalmaurya29/Leetcode/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/anchalmaurya29/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anchalmaurya29/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Game Theory
