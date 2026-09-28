@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anchalmaurya29/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/anchalmaurya29/Leetcode/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/anchalmaurya29/Leetcode/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/anchalmaurya29/Leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/anchalmaurya29/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/anchalmaurya29/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anchalmaurya29/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/anchalmaurya29/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/anchalmaurya29/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anchalmaurya29/Leetcode/tree/master/0055-jump-game) |
+| [0087-scramble-string](https://github.com/anchalmaurya29/Leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/anchalmaurya29/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/anchalmaurya29/Leetcode/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/anchalmaurya29/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
