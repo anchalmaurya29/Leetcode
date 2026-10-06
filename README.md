@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anchalmaurya29/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anchalmaurya29/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/anchalmaurya29/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anchalmaurya29/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/anchalmaurya29/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/anchalmaurya29/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/anchalmaurya29/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anchalmaurya29/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anchalmaurya29/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/anchalmaurya29/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anchalmaurya29/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/anchalmaurya29/Leetcode/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/anchalmaurya29/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/anchalmaurya29/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/anchalmaurya29/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anchalmaurya29/Leetcode/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/anchalmaurya29/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/anchalmaurya29/Leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/anchalmaurya29/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/anchalmaurya29/Leetcode/tree/master/0118-pascals-triangle) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anchalmaurya29/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anchalmaurya29/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/anchalmaurya29/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/anchalmaurya29/Leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/anchalmaurya29/Leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/anchalmaurya29/Leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/anchalmaurya29/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Algorithm X
 |  |
 | ------- |
